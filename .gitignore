@@ -1,4 +1,6 @@
+.gitignore~
 *.xml~
+*.html~
 
 # built application files
 *.apk
